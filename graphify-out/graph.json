@@ -1,0 +1,1046 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "__init__.py",
+      "file_type": "code",
+      "source_file": "__init__.py",
+      "source_location": "L1",
+      "id": "init_py",
+      "community": 4,
+      "norm_label": "__init__.py"
+    },
+    {
+      "label": "Formatflux - Sistema de procesamiento multimedia.",
+      "file_type": "rationale",
+      "source_file": "__init__.py",
+      "source_location": "L1",
+      "id": "formatflux_init_rationale_1",
+      "community": 4,
+      "norm_label": "formatflux - sistema de procesamiento multimedia."
+    },
+    {
+      "label": "__init__.py",
+      "file_type": "code",
+      "source_file": "cli/__init__.py",
+      "source_location": "L1",
+      "id": "cli_init_py",
+      "community": 5,
+      "norm_label": "__init__.py"
+    },
+    {
+      "label": "CLI module for Formatflux.",
+      "file_type": "rationale",
+      "source_file": "cli/__init__.py",
+      "source_location": "L1",
+      "id": "cli_init_rationale_1",
+      "community": 5,
+      "norm_label": "cli module for formatflux."
+    },
+    {
+      "label": "main.py",
+      "file_type": "code",
+      "source_file": "cli/main.py",
+      "source_location": "L1",
+      "id": "cli_main_py",
+      "community": 0,
+      "norm_label": "main.py"
+    },
+    {
+      "label": "callback()",
+      "file_type": "code",
+      "source_file": "cli/main.py",
+      "source_location": "L18",
+      "id": "cli_main_callback",
+      "community": 0,
+      "norm_label": "callback()"
+    },
+    {
+      "label": "version()",
+      "file_type": "code",
+      "source_file": "cli/main.py",
+      "source_location": "L21",
+      "id": "cli_main_version",
+      "community": 0,
+      "norm_label": "version()"
+    },
+    {
+      "label": "info_cmd()",
+      "file_type": "code",
+      "source_file": "cli/main.py",
+      "source_location": "L26",
+      "id": "cli_main_info_cmd",
+      "community": 0,
+      "norm_label": "info_cmd()"
+    },
+    {
+      "label": "convert_cmd()",
+      "file_type": "code",
+      "source_file": "cli/main.py",
+      "source_location": "L40",
+      "id": "cli_main_convert_cmd",
+      "community": 0,
+      "norm_label": "convert_cmd()"
+    },
+    {
+      "label": "batch_convert_cmd()",
+      "file_type": "code",
+      "source_file": "cli/main.py",
+      "source_location": "L55",
+      "id": "cli_main_batch_convert_cmd",
+      "community": 0,
+      "norm_label": "batch_convert_cmd()"
+    },
+    {
+      "label": "chroma_key_cmd()",
+      "file_type": "code",
+      "source_file": "cli/main.py",
+      "source_location": "L68",
+      "id": "cli_main_chroma_key_cmd",
+      "community": 0,
+      "norm_label": "chroma_key_cmd()"
+    },
+    {
+      "label": "subtitles_generate_cmd()",
+      "file_type": "code",
+      "source_file": "cli/main.py",
+      "source_location": "L80",
+      "id": "cli_main_subtitles_generate_cmd",
+      "community": 0,
+      "norm_label": "subtitles_generate_cmd()"
+    },
+    {
+      "label": "subtitles_embed_cmd()",
+      "file_type": "code",
+      "source_file": "cli/main.py",
+      "source_location": "L92",
+      "id": "cli_main_subtitles_embed_cmd",
+      "community": 0,
+      "norm_label": "subtitles_embed_cmd()"
+    },
+    {
+      "label": "audio_normalize_cmd()",
+      "file_type": "code",
+      "source_file": "cli/main.py",
+      "source_location": "L103",
+      "id": "cli_main_audio_normalize_cmd",
+      "community": 0,
+      "norm_label": "audio_normalize_cmd()"
+    },
+    {
+      "label": "audio_trim_cmd()",
+      "file_type": "code",
+      "source_file": "cli/main.py",
+      "source_location": "L114",
+      "id": "cli_main_audio_trim_cmd",
+      "community": 0,
+      "norm_label": "audio_trim_cmd()"
+    },
+    {
+      "label": "extract_frames_cmd()",
+      "file_type": "code",
+      "source_file": "cli/main.py",
+      "source_location": "L125",
+      "id": "cli_main_extract_frames_cmd",
+      "community": 0,
+      "norm_label": "extract_frames_cmd()"
+    },
+    {
+      "label": "main()",
+      "file_type": "code",
+      "source_file": "cli/main.py",
+      "source_location": "L136",
+      "id": "cli_main_main",
+      "community": 0,
+      "norm_label": "main()"
+    },
+    {
+      "label": "CLI principal de Formatflux.",
+      "file_type": "rationale",
+      "source_file": "cli/main.py",
+      "source_location": "L1",
+      "id": "cli_main_rationale_1",
+      "community": 0,
+      "norm_label": "cli principal de formatflux."
+    },
+    {
+      "label": "__init__.py",
+      "file_type": "code",
+      "source_file": "core/__init__.py",
+      "source_location": "L1",
+      "id": "core_init_py",
+      "community": 6,
+      "norm_label": "__init__.py"
+    },
+    {
+      "label": "Core processing modules for Formatflux.",
+      "file_type": "rationale",
+      "source_file": "core/__init__.py",
+      "source_location": "L1",
+      "id": "core_init_rationale_1",
+      "community": 6,
+      "norm_label": "core processing modules for formatflux."
+    },
+    {
+      "label": "converter.py",
+      "file_type": "code",
+      "source_file": "core/converter.py",
+      "source_location": "L1",
+      "id": "core_converter_py",
+      "community": 2,
+      "norm_label": "converter.py"
+    },
+    {
+      "label": "MediaConverter",
+      "file_type": "code",
+      "source_file": "core/converter.py",
+      "source_location": "L11",
+      "id": "core_converter_mediaconverter",
+      "community": 2,
+      "norm_label": "mediaconverter"
+    },
+    {
+      "label": ".__init__()",
+      "file_type": "code",
+      "source_file": "core/converter.py",
+      "source_location": "L18",
+      "id": "core_converter_mediaconverter_init",
+      "community": 2,
+      "norm_label": ".__init__()"
+    },
+    {
+      "label": ".convert()",
+      "file_type": "code",
+      "source_file": "core/converter.py",
+      "source_location": "L24",
+      "id": "core_converter_mediaconverter_convert",
+      "community": 2,
+      "norm_label": ".convert()"
+    },
+    {
+      "label": ".get_info()",
+      "file_type": "code",
+      "source_file": "core/converter.py",
+      "source_location": "L49",
+      "id": "core_converter_mediaconverter_get_info",
+      "community": 2,
+      "norm_label": ".get_info()"
+    },
+    {
+      "label": ".batch_convert()",
+      "file_type": "code",
+      "source_file": "core/converter.py",
+      "source_location": "L63",
+      "id": "core_converter_mediaconverter_batch_convert",
+      "community": 2,
+      "norm_label": ".batch_convert()"
+    },
+    {
+      "label": "MediaConverter - Motor de conversi\u00f3n multimedia basado en FFmpeg.",
+      "file_type": "rationale",
+      "source_file": "core/converter.py",
+      "source_location": "L1",
+      "id": "core_converter_rationale_1",
+      "community": 2,
+      "norm_label": "mediaconverter - motor de conversion multimedia basado en ffmpeg."
+    },
+    {
+      "label": "Conversor multimedia basado en FFmpeg.",
+      "file_type": "rationale",
+      "source_file": "core/converter.py",
+      "source_location": "L12",
+      "id": "core_converter_rationale_12",
+      "community": 2,
+      "norm_label": "conversor multimedia basado en ffmpeg."
+    },
+    {
+      "label": "Convierte un archivo multimedia.",
+      "file_type": "rationale",
+      "source_file": "core/converter.py",
+      "source_location": "L25",
+      "id": "core_converter_rationale_25",
+      "community": 2,
+      "norm_label": "convierte un archivo multimedia."
+    },
+    {
+      "label": "Obtiene informaci\u00f3n de un archivo multimedia.",
+      "file_type": "rationale",
+      "source_file": "core/converter.py",
+      "source_location": "L50",
+      "id": "core_converter_rationale_50",
+      "community": 2,
+      "norm_label": "obtiene informacion de un archivo multimedia."
+    },
+    {
+      "label": "Convierte m\u00faltiples archivos en un directorio.",
+      "file_type": "rationale",
+      "source_file": "core/converter.py",
+      "source_location": "L64",
+      "id": "core_converter_rationale_64",
+      "community": 2,
+      "norm_label": "convierte multiples archivos en un directorio."
+    },
+    {
+      "label": "processor.py",
+      "file_type": "code",
+      "source_file": "core/processor.py",
+      "source_location": "L1",
+      "id": "core_processor_py",
+      "community": 1,
+      "norm_label": "processor.py"
+    },
+    {
+      "label": "VideoProcessor",
+      "file_type": "code",
+      "source_file": "core/processor.py",
+      "source_location": "L12",
+      "id": "core_processor_videoprocessor",
+      "community": 1,
+      "norm_label": "videoprocessor"
+    },
+    {
+      "label": ".__init__()",
+      "file_type": "code",
+      "source_file": "core/processor.py",
+      "source_location": "L15",
+      "id": "core_processor_videoprocessor_init",
+      "community": 1,
+      "norm_label": ".__init__()"
+    },
+    {
+      "label": ".chroma_key()",
+      "file_type": "code",
+      "source_file": "core/processor.py",
+      "source_location": "L20",
+      "id": "core_processor_videoprocessor_chroma_key",
+      "community": 1,
+      "norm_label": ".chroma_key()"
+    },
+    {
+      "label": ".add_subtitles()",
+      "file_type": "code",
+      "source_file": "core/processor.py",
+      "source_location": "L39",
+      "id": "core_processor_videoprocessor_add_subtitles",
+      "community": 1,
+      "norm_label": ".add_subtitles()"
+    },
+    {
+      "label": ".generate_subtitles_ai()",
+      "file_type": "code",
+      "source_file": "core/processor.py",
+      "source_location": "L54",
+      "id": "core_processor_videoprocessor_generate_subtitles_ai",
+      "community": 1,
+      "norm_label": ".generate_subtitles_ai()"
+    },
+    {
+      "label": ".extract_frames()",
+      "file_type": "code",
+      "source_file": "core/processor.py",
+      "source_location": "L75",
+      "id": "core_processor_videoprocessor_extract_frames",
+      "community": 1,
+      "norm_label": ".extract_frames()"
+    },
+    {
+      "label": "_format_timestamp()",
+      "file_type": "code",
+      "source_file": "core/processor.py",
+      "source_location": "L91",
+      "id": "core_processor_format_timestamp",
+      "community": 1,
+      "norm_label": "_format_timestamp()"
+    },
+    {
+      "label": "AudioProcessor",
+      "file_type": "code",
+      "source_file": "core/processor.py",
+      "source_location": "L100",
+      "id": "core_processor_audioprocessor",
+      "community": 3,
+      "norm_label": "audioprocessor"
+    },
+    {
+      "label": ".__init__()",
+      "file_type": "code",
+      "source_file": "core/processor.py",
+      "source_location": "L103",
+      "id": "core_processor_audioprocessor_init",
+      "community": 3,
+      "norm_label": ".__init__()"
+    },
+    {
+      "label": ".normalize()",
+      "file_type": "code",
+      "source_file": "core/processor.py",
+      "source_location": "L108",
+      "id": "core_processor_audioprocessor_normalize",
+      "community": 3,
+      "norm_label": ".normalize()"
+    },
+    {
+      "label": ".trim()",
+      "file_type": "code",
+      "source_file": "core/processor.py",
+      "source_location": "L121",
+      "id": "core_processor_audioprocessor_trim",
+      "community": 3,
+      "norm_label": ".trim()"
+    },
+    {
+      "label": ".convert()",
+      "file_type": "code",
+      "source_file": "core/processor.py",
+      "source_location": "L138",
+      "id": "core_processor_audioprocessor_convert",
+      "community": 3,
+      "norm_label": ".convert()"
+    },
+    {
+      "label": ".merge()",
+      "file_type": "code",
+      "source_file": "core/processor.py",
+      "source_location": "L151",
+      "id": "core_processor_audioprocessor_merge",
+      "community": 3,
+      "norm_label": ".merge()"
+    },
+    {
+      "label": "Processors - Procesadores de video y audio.",
+      "file_type": "rationale",
+      "source_file": "core/processor.py",
+      "source_location": "L1",
+      "id": "core_processor_rationale_1",
+      "community": 1,
+      "norm_label": "processors - procesadores de video y audio."
+    },
+    {
+      "label": "Procesador de archivos de video.",
+      "file_type": "rationale",
+      "source_file": "core/processor.py",
+      "source_location": "L13",
+      "id": "core_processor_rationale_13",
+      "community": 1,
+      "norm_label": "procesador de archivos de video."
+    },
+    {
+      "label": "Aplica chroma key (pantalla verde/azul) a un video.",
+      "file_type": "rationale",
+      "source_file": "core/processor.py",
+      "source_location": "L21",
+      "id": "core_processor_rationale_21",
+      "community": 1,
+      "norm_label": "aplica chroma key (pantalla verde/azul) a un video."
+    },
+    {
+      "label": "Incrusta subt\u00edtulos en un video.",
+      "file_type": "rationale",
+      "source_file": "core/processor.py",
+      "source_location": "L40",
+      "id": "core_processor_rationale_40",
+      "community": 1,
+      "norm_label": "incrusta subtitulos en un video."
+    },
+    {
+      "label": "Genera subt\u00edtulos autom\u00e1ticamente usando Whisper IA.",
+      "file_type": "rationale",
+      "source_file": "core/processor.py",
+      "source_location": "L55",
+      "id": "core_processor_rationale_55",
+      "community": 1,
+      "norm_label": "genera subtitulos automaticamente usando whisper ia."
+    },
+    {
+      "label": "Extrae fotogramas de un video.",
+      "file_type": "rationale",
+      "source_file": "core/processor.py",
+      "source_location": "L76",
+      "id": "core_processor_rationale_76",
+      "community": 1,
+      "norm_label": "extrae fotogramas de un video."
+    },
+    {
+      "label": "Formatea segundos a timestamp SRT.",
+      "file_type": "rationale",
+      "source_file": "core/processor.py",
+      "source_location": "L92",
+      "id": "core_processor_rationale_92",
+      "community": 7,
+      "norm_label": "formatea segundos a timestamp srt."
+    },
+    {
+      "label": "Procesador de archivos de audio.",
+      "file_type": "rationale",
+      "source_file": "core/processor.py",
+      "source_location": "L101",
+      "id": "core_processor_rationale_101",
+      "community": 3,
+      "norm_label": "procesador de archivos de audio."
+    },
+    {
+      "label": "Normaliza el volumen de un archivo de audio.",
+      "file_type": "rationale",
+      "source_file": "core/processor.py",
+      "source_location": "L109",
+      "id": "core_processor_rationale_109",
+      "community": 3,
+      "norm_label": "normaliza el volumen de un archivo de audio."
+    },
+    {
+      "label": "Recorta un archivo de audio.",
+      "file_type": "rationale",
+      "source_file": "core/processor.py",
+      "source_location": "L122",
+      "id": "core_processor_rationale_122",
+      "community": 3,
+      "norm_label": "recorta un archivo de audio."
+    },
+    {
+      "label": "Convierte el formato de un archivo de audio.",
+      "file_type": "rationale",
+      "source_file": "core/processor.py",
+      "source_location": "L139",
+      "id": "core_processor_rationale_139",
+      "community": 3,
+      "norm_label": "convierte el formato de un archivo de audio."
+    },
+    {
+      "label": "Mezcla m\u00faltiples archivos de audio.",
+      "file_type": "rationale",
+      "source_file": "core/processor.py",
+      "source_location": "L152",
+      "id": "core_processor_rationale_152",
+      "community": 3,
+      "norm_label": "mezcla multiples archivos de audio."
+    }
+  ],
+  "links": [
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "__init__.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "formatflux_init_rationale_1",
+      "target": "init_py",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "cli/__init__.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "cli_init_rationale_1",
+      "target": "cli_init_py",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "cli/main.py",
+      "source_location": "L18",
+      "weight": 1.0,
+      "source": "cli_main_py",
+      "target": "cli_main_callback",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "cli/main.py",
+      "source_location": "L21",
+      "weight": 1.0,
+      "source": "cli_main_py",
+      "target": "cli_main_version",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "cli/main.py",
+      "source_location": "L26",
+      "weight": 1.0,
+      "source": "cli_main_py",
+      "target": "cli_main_info_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "cli/main.py",
+      "source_location": "L40",
+      "weight": 1.0,
+      "source": "cli_main_py",
+      "target": "cli_main_convert_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "cli/main.py",
+      "source_location": "L55",
+      "weight": 1.0,
+      "source": "cli_main_py",
+      "target": "cli_main_batch_convert_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "cli/main.py",
+      "source_location": "L68",
+      "weight": 1.0,
+      "source": "cli_main_py",
+      "target": "cli_main_chroma_key_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "cli/main.py",
+      "source_location": "L80",
+      "weight": 1.0,
+      "source": "cli_main_py",
+      "target": "cli_main_subtitles_generate_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "cli/main.py",
+      "source_location": "L92",
+      "weight": 1.0,
+      "source": "cli_main_py",
+      "target": "cli_main_subtitles_embed_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "cli/main.py",
+      "source_location": "L103",
+      "weight": 1.0,
+      "source": "cli_main_py",
+      "target": "cli_main_audio_normalize_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "cli/main.py",
+      "source_location": "L114",
+      "weight": 1.0,
+      "source": "cli_main_py",
+      "target": "cli_main_audio_trim_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "cli/main.py",
+      "source_location": "L125",
+      "weight": 1.0,
+      "source": "cli_main_py",
+      "target": "cli_main_extract_frames_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "cli/main.py",
+      "source_location": "L136",
+      "weight": 1.0,
+      "source": "cli_main_py",
+      "target": "cli_main_main",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "cli/main.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "cli_main_rationale_1",
+      "target": "cli_main_py",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "core/__init__.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "core_init_rationale_1",
+      "target": "core_init_py",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "core/converter.py",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "core_converter_py",
+      "target": "core_converter_mediaconverter",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "core/converter.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "core_converter_rationale_1",
+      "target": "core_converter_py",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "core/converter.py",
+      "source_location": "L18",
+      "weight": 1.0,
+      "source": "core_converter_mediaconverter",
+      "target": "core_converter_mediaconverter_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "core/converter.py",
+      "source_location": "L24",
+      "weight": 1.0,
+      "source": "core_converter_mediaconverter",
+      "target": "core_converter_mediaconverter_convert",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "core/converter.py",
+      "source_location": "L49",
+      "weight": 1.0,
+      "source": "core_converter_mediaconverter",
+      "target": "core_converter_mediaconverter_get_info",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "core/converter.py",
+      "source_location": "L63",
+      "weight": 1.0,
+      "source": "core_converter_mediaconverter",
+      "target": "core_converter_mediaconverter_batch_convert",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "core/converter.py",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "core_converter_rationale_12",
+      "target": "core_converter_mediaconverter",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "core/converter.py",
+      "source_location": "L74",
+      "weight": 1.0,
+      "source": "core_converter_mediaconverter_batch_convert",
+      "target": "core_converter_mediaconverter_convert",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "core/converter.py",
+      "source_location": "L25",
+      "weight": 1.0,
+      "source": "core_converter_rationale_25",
+      "target": "core_converter_mediaconverter_convert",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "core/converter.py",
+      "source_location": "L50",
+      "weight": 1.0,
+      "source": "core_converter_rationale_50",
+      "target": "core_converter_mediaconverter_get_info",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "core/converter.py",
+      "source_location": "L64",
+      "weight": 1.0,
+      "source": "core_converter_rationale_64",
+      "target": "core_converter_mediaconverter_batch_convert",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "core/processor.py",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "core_processor_py",
+      "target": "core_processor_videoprocessor",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "core/processor.py",
+      "source_location": "L91",
+      "weight": 1.0,
+      "source": "core_processor_py",
+      "target": "core_processor_format_timestamp",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "core/processor.py",
+      "source_location": "L100",
+      "weight": 1.0,
+      "source": "core_processor_py",
+      "target": "core_processor_audioprocessor",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "core/processor.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "core_processor_rationale_1",
+      "target": "core_processor_py",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "core/processor.py",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "core_processor_videoprocessor",
+      "target": "core_processor_videoprocessor_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "core/processor.py",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "core_processor_videoprocessor",
+      "target": "core_processor_videoprocessor_chroma_key",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "core/processor.py",
+      "source_location": "L39",
+      "weight": 1.0,
+      "source": "core_processor_videoprocessor",
+      "target": "core_processor_videoprocessor_add_subtitles",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "core/processor.py",
+      "source_location": "L54",
+      "weight": 1.0,
+      "source": "core_processor_videoprocessor",
+      "target": "core_processor_videoprocessor_generate_subtitles_ai",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "core/processor.py",
+      "source_location": "L75",
+      "weight": 1.0,
+      "source": "core_processor_videoprocessor",
+      "target": "core_processor_videoprocessor_extract_frames",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "core/processor.py",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "core_processor_rationale_13",
+      "target": "core_processor_videoprocessor",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "core/processor.py",
+      "source_location": "L21",
+      "weight": 1.0,
+      "source": "core_processor_rationale_21",
+      "target": "core_processor_videoprocessor_chroma_key",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "core/processor.py",
+      "source_location": "L40",
+      "weight": 1.0,
+      "source": "core_processor_rationale_40",
+      "target": "core_processor_videoprocessor_add_subtitles",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "core/processor.py",
+      "source_location": "L69",
+      "weight": 1.0,
+      "source": "core_processor_videoprocessor_generate_subtitles_ai",
+      "target": "core_processor_format_timestamp",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "core/processor.py",
+      "source_location": "L55",
+      "weight": 1.0,
+      "source": "core_processor_rationale_55",
+      "target": "core_processor_videoprocessor_generate_subtitles_ai",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "core/processor.py",
+      "source_location": "L76",
+      "weight": 1.0,
+      "source": "core_processor_rationale_76",
+      "target": "core_processor_videoprocessor_extract_frames",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "core/processor.py",
+      "source_location": "L103",
+      "weight": 1.0,
+      "source": "core_processor_audioprocessor",
+      "target": "core_processor_audioprocessor_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "core/processor.py",
+      "source_location": "L108",
+      "weight": 1.0,
+      "source": "core_processor_audioprocessor",
+      "target": "core_processor_audioprocessor_normalize",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "core/processor.py",
+      "source_location": "L121",
+      "weight": 1.0,
+      "source": "core_processor_audioprocessor",
+      "target": "core_processor_audioprocessor_trim",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "core/processor.py",
+      "source_location": "L138",
+      "weight": 1.0,
+      "source": "core_processor_audioprocessor",
+      "target": "core_processor_audioprocessor_convert",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "core/processor.py",
+      "source_location": "L151",
+      "weight": 1.0,
+      "source": "core_processor_audioprocessor",
+      "target": "core_processor_audioprocessor_merge",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "core/processor.py",
+      "source_location": "L101",
+      "weight": 1.0,
+      "source": "core_processor_rationale_101",
+      "target": "core_processor_audioprocessor",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "core/processor.py",
+      "source_location": "L109",
+      "weight": 1.0,
+      "source": "core_processor_rationale_109",
+      "target": "core_processor_audioprocessor_normalize",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "core/processor.py",
+      "source_location": "L122",
+      "weight": 1.0,
+      "source": "core_processor_rationale_122",
+      "target": "core_processor_audioprocessor_trim",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "core/processor.py",
+      "source_location": "L139",
+      "weight": 1.0,
+      "source": "core_processor_rationale_139",
+      "target": "core_processor_audioprocessor_convert",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "core/processor.py",
+      "source_location": "L152",
+      "weight": 1.0,
+      "source": "core_processor_rationale_152",
+      "target": "core_processor_audioprocessor_merge",
+      "confidence_score": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "built_at_commit": "e224ac0c79ef898cd1a5c4f631e33ccff84eeaee"
+}
