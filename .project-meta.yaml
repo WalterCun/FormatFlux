@@ -1,0 +1,24 @@
+# Configuración de flujo de trabajo por proyecto
+project:
+  name: "FormatFlux"
+  type: application
+
+workflow:
+  default: hybrid
+  max_turns: 90
+  auto_commit: true
+  require_review: true
+
+graphify:
+  auto_update: true
+  watch_mode: false
+
+git:
+  main_branch: main
+  commit_prefix: "feat|fix|docs|refactor|test|chore"
+  require_pr: false
+
+models:
+  primary: kilo-auto/free
+  fallback: [mistral:open-mistral-nemo, groq:llama-3.3-70b-versatile]
+  coding: groq:llama-3.3-70b-versatile

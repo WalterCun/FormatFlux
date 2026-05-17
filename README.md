@@ -31,7 +31,7 @@ sudo apt install ffmpeg  # Ubuntu/Debian
 ### Instalación del Proyecto
 
 ```bash
-cd /home/wcun/.openclaw/workspace/formatflux
+cd /home/wcun/.hermes/workspace/FormatFlux
 uv pip install -e ".[dev]"
 ```
 
