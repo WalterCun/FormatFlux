@@ -71,22 +71,24 @@ Manipulación de audio:
 ## Estructura del Proyecto
 
 ```
+```diff
 formatflux/
 ├── README.md
-├── ARQUITECTURA.md
 ├── CONTRIBUTING.md
+├── FEATURES.md            ← lista de funcionalidades
+├── DISENO.md              ← decisiones de diseño
+├── requirements.txt       ← dependencias producción
+├── requirements-dev.txt   ← dependencias desarrollo
 ├── pyproject.toml
 ├── .gitignore
+├── .project-meta.yaml
+├── .architecture/
+│   └── ARQUITECTURA.md    ← diagramas y capas
 └── src/
     └── formatflux/
         ├── __init__.py
         ├── cli/
-        │   ├── __init__.py
-        │   └── main.py
         └── core/
-            ├── __init__.py
-            ├── converter.py
-            └── processor.py
 ```
 
 ## Contribución
